@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Check_If_a_String_Contains_All_Binary_Codes_of_Size_K
 {
